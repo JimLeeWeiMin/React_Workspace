@@ -1,0 +1,14 @@
+.home-container {
+    padding: 1rem;
+    margin-left: 20rem; /* adjust this value to the width of your LeftNavbar component */
+  }
+  
+  .home-container h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .home-container p {
+    font-size: 1.2rem;
+    line-height: 1.5;
+  }
