@@ -3,28 +3,3 @@
 .app-container {
   display: flex;
 }
-
-.left-navbar {
-  width: 200px;
-  background-color: #f0f0f0;
-}
-
-.left-navbar ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.left-navbar li {
-  padding: 10px;
-}
-
-.left-navbar li a {
-  color: black;
-  text-decoration: none;
-}
-
-.left-navbar li a:hover {
-  color: white;
-  background-color: black;
-}
